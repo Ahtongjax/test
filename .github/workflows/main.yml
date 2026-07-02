@@ -10,4 +10,4 @@
       - name: Checkout Repository
         uses: actions/checkout@v4
       - name: Build Project 
-    run: echo "Building the project..."
+      run: echo "Building the project..."
